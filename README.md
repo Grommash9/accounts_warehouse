@@ -10,3 +10,4 @@ After successful upload, you can find out the number of accounts in each categor
 Only accounts that have not yet been loaded are counted in the counting
 
 Also, once every 23 hours, the bot sends a database with accounts to the admins specified in the config, so as not to lose it in the event of a server loss
+
